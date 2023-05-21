@@ -7,7 +7,7 @@ void main() {
         appBar: AppBar(
           centerTitle: true,
           title: const Text(
-            'I am Rich',
+            'I am Riech',
           ),
           backgroundColor: const Color.fromARGB(255, 122, 62, 62),
         ),
